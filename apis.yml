@@ -1,0 +1,7 @@
+aid: hyster-yale-materials-handling
+url: https://raw.githubusercontent.com/api-evangelist/hyster-yale-materials-handling/refs/heads/main/apis.yml
+modified: '2026-03-24'
+apis: []
+common:
+  - type: Website
+    url: https://www.hyster-yale-materials-handling.com
