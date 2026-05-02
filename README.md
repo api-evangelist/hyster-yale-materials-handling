@@ -1,11 +1,36 @@
-# Hyster-Yale Materials Handling
+# Hyster-Yale Materials Handling (hyster-yale-materials-handling)
 
-This is a repository for tracking the APIs, SDKs, and other developer resources for Hyster-Yale Materials Handling.
+Hyster-Yale Materials Handling is a global designer, engineer, manufacturer, seller, and servicer of a comprehensive line of forklifts and aftermarket parts marketed under the Hyster and Yale brands. This repository tracks public APIs, developer resources, and integration touchpoints associated with Hyster-Yale.
+
+**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/hyster-yale-materials-handling/refs/heads/main/apis.yml)
+
+## Scope
+
+- **Type:** Index
+- **Position:** Consumer
+- **Access:** 3rd-Party
+
+## Tags
+
+- Forklifts, Materials Handling, Industrial, Manufacturing, Logistics
+
+## Timestamps
+
+- **Created:** 2026-03-24
+- **Modified:** 2026-04-28
 
 ## APIs
 
-No APIs have been documented yet. Check back for updates.
+No public APIs have been documented for Hyster-Yale Materials Handling at this time.
 
-## Properties
+## Common Properties
 
-- [Website](https://www.hyster-yale-materials-handling.com)
+- [Website](https://www.hyster-yale.com/)
+- [Hyster Brand](https://www.hyster.com/)
+- [Yale Brand](https://www.yale.com/)
+
+## Maintainers
+
+**FN:** Kin Lane
+
+**Email:** kin@apievangelist.com
