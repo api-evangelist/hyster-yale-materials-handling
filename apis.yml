@@ -21,6 +21,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/hyster-yale-materials-handling-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/Hyster-yale
   - type: LinkedIn
