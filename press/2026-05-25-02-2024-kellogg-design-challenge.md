@@ -1,7 +1,9 @@
 ---
 title: 2024 Kellogg Design Challenge
 url: https://www.hyster.com/en-us/north-america/why-hyster/press-releases/2024/hyster-recognizes-dealers-of-distinction-for-20232/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Hyster-Yale Materials Handling" press release artificial intelligence'
 position: 2
 source: serpapi-google

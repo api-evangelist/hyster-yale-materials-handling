@@ -1,7 +1,9 @@
 ---
 title: Privacy Policy
 url: https://www.hyster-yale.com/en-us/privacy-policy/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Hyster-Yale Materials Handling" press release artificial intelligence'
 position: 3
 source: serpapi-google

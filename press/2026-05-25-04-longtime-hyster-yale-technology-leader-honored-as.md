@@ -1,7 +1,9 @@
 ---
 title: Longtime Hyster-Yale technology leader honored as ...
 url: https://www.dcvelocity.com/articles/61298-longtime-hyster-yale-technology-leader-honored-as-distinguished-supply-chain-professional
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Hyster-Yale Materials Handling" press release artificial intelligence'
 position: 4
 source: serpapi-google
